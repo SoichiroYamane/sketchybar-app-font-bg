@@ -3,6 +3,9 @@
 ### START-OF-ICON-MAP
 function __icon_map() {
     case "$1" in
+   "Ableton Live")
+        icon_result=":ableton_live:"
+        ;;
    "Activity Monitor")
         icon_result=":activity_monitor:"
         ;;
@@ -39,6 +42,9 @@ function __icon_map() {
    "Fusion" | "Fusion Service Utility")
         icon_result=":autodesk_fusion:"
         ;;
+   "Bitwig Studio")
+        icon_result=":bitwing_studio:"
+        ;;
    "Blender")
         icon_result=":blender:"
         ;;
@@ -60,17 +66,26 @@ function __icon_map() {
    "Clock")
         icon_result=":clock:"
         ;;
+   "Cockos Reaper")
+        icon_result=":cockos_reaper:"
+        ;;
    "DataSpell")
         icon_result=":dataspell:"
         ;;
    "default")
         icon_result=":default:"
         ;;
+   "DEVONthink")
+        icon_result=":devonthink:"
+        ;;
    "Discord")
         icon_result=":discord:"
         ;;
    "Docker Desktop")
         icon_result=":docker:"
+        ;;
+   "Drafts")
+        icon_result=":drafts:"
         ;;
    "Easy CSV Editor")
         icon_result=":easy_csv_editor:"
@@ -80,6 +95,9 @@ function __icon_map() {
         ;;
    "Figma")
         icon_result=":figma:"
+        ;;
+   "Filen Drive")
+        icon_result=":filen_drive:"
         ;;
    "Finder")
         icon_result=":finder_thick:"
@@ -174,6 +192,9 @@ function __icon_map() {
    "Microsoft To Do")
         icon_result=":microsoft_todo:"
         ;;
+   "Microsoft Word")
+        icon_result=":microsoft_word:"
+        ;;
    "Notion")
         icon_result=":notion:"
         ;;
@@ -194,6 +215,9 @@ function __icon_map() {
         ;;
    "pyhton" | "python3.5" | "python3.6" | "python3.7" | "python3.8" | "python3.9" | "python3.10" | "python3.11" | "python3.12" | "python3.13")
         icon_result=":python:"
+        ;;
+   "qBittorrent")
+        icon_result=":qbittorrent:"
         ;;
    "QMK Toolbox")
         icon_result=":qmk:"
@@ -240,6 +264,9 @@ function __icon_map() {
    "VESTA")
         icon_result=":vesta:"
         ;;
+   "Vivaldi")
+        icon_result=":vivaldi:"
+        ;;
    "Code")
         icon_result=":vscode:"
         ;;
@@ -248,6 +275,12 @@ function __icon_map() {
         ;;
    "WezTerm")
         icon_result=":wezterm:"
+        ;;
+   "Zed")
+        icon_result=":zed:"
+        ;;
+   "Zen Browser")
+        icon_result=":zen_browser:"
         ;;
     *)
         icon_result=":default:"

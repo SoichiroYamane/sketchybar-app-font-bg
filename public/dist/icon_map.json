@@ -1,5 +1,11 @@
 [
     {
+        "iconName": ":ableton_live:",
+        "appNames": [
+            "Ableton Live"
+        ]
+    },
+    {
         "iconName": ":activity_monitor:",
         "appNames": [
             "Activity Monitor"
@@ -73,6 +79,12 @@
         ]
     },
     {
+        "iconName": ":bitwing_studio:",
+        "appNames": [
+            "Bitwig Studio"
+        ]
+    },
+    {
         "iconName": ":blender:",
         "appNames": [
             "Blender"
@@ -115,6 +127,12 @@
         ]
     },
     {
+        "iconName": ":cockos_reaper:",
+        "appNames": [
+            "Cockos Reaper"
+        ]
+    },
+    {
         "iconName": ":dataspell:",
         "appNames": [
             "DataSpell"
@@ -127,6 +145,12 @@
         ]
     },
     {
+        "iconName": ":devonthink:",
+        "appNames": [
+            "DEVONthink"
+        ]
+    },
+    {
         "iconName": ":discord:",
         "appNames": [
             "Discord"
@@ -136,6 +160,12 @@
         "iconName": ":docker:",
         "appNames": [
             "Docker Desktop"
+        ]
+    },
+    {
+        "iconName": ":drafts:",
+        "appNames": [
+            "Drafts"
         ]
     },
     {
@@ -154,6 +184,12 @@
         "iconName": ":figma:",
         "appNames": [
             "Figma"
+        ]
+    },
+    {
+        "iconName": ":filen_drive:",
+        "appNames": [
+            "Filen Drive"
         ]
     },
     {
@@ -343,6 +379,12 @@
         ]
     },
     {
+        "iconName": ":microsoft_word:",
+        "appNames": [
+            "Microsoft Word"
+        ]
+    },
+    {
         "iconName": ":notion:",
         "appNames": [
             "Notion"
@@ -391,6 +433,12 @@
             "python3.11",
             "python3.12",
             "python3.13"
+        ]
+    },
+    {
+        "iconName": ":qbittorrent:",
+        "appNames": [
+            "qBittorrent"
         ]
     },
     {
@@ -484,6 +532,12 @@
         ]
     },
     {
+        "iconName": ":vivaldi:",
+        "appNames": [
+            "Vivaldi"
+        ]
+    },
+    {
         "iconName": ":vscode:",
         "appNames": [
             "Code"
@@ -499,6 +553,18 @@
         "iconName": ":wezterm:",
         "appNames": [
             "WezTerm"
+        ]
+    },
+    {
+        "iconName": ":zed:",
+        "appNames": [
+            "Zed"
+        ]
+    },
+    {
+        "iconName": ":zen_browser:",
+        "appNames": [
+            "Zen Browser"
         ]
     }
 ]

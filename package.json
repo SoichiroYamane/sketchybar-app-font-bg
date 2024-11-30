@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "sketchybar-app-font-bg",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "App font with background for sketchybar, bootstrapped using SVGs from simple-bar",
   "scripts": {
     "build": "node ./build.js",
