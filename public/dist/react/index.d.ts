@@ -65,6 +65,7 @@ export * from './Preview';
 export * from './Preview2';
 export * from './PreviewThick';
 export * from './Pycharm';
+export * from './Python';
 export * from './Qmk';
 export * from './Safari';
 export * from './SequelAce';

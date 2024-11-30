@@ -192,6 +192,9 @@ function __icon_map() {
    "PyCharm")
         icon_result=":pycharm:"
         ;;
+   "pyhton" | "python3.5" | "python3.6" | "python3.7" | "python3.8" | "python3.9" | "python3.10" | "python3.11" | "python3.12" | "python3.13")
+        icon_result=":python:"
+        ;;
    "QMK Toolbox")
         icon_result=":qmk:"
         ;;
