@@ -66,9 +66,6 @@ function __icon_map() {
    "Clock")
         icon_result=":clock:"
         ;;
-   "Cockos Reaper")
-        icon_result=":cockos_reaper:"
-        ;;
    "DataSpell")
         icon_result=":dataspell:"
         ;;
@@ -221,6 +218,9 @@ function __icon_map() {
         ;;
    "QMK Toolbox")
         icon_result=":qmk:"
+        ;;
+   "REAPER")
+        icon_result=":reaper:"
         ;;
    "Safari")
         icon_result=":safari:"
