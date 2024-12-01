@@ -1,5 +1,7 @@
 # sketchybar-app-font-bg 🍹
 
+[![Demo Page](https://github.com/SoichiroYamane/sketchybar-app-font-bg/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/SoichiroYamane/sketchybar-app-font-bg/actions/workflows/jekyll-gh-pages.yml)
+
  ⚠️ This repository is based on [sketchybar-app-font](https://github.com/kvndrsslr/sketchybar-app-font) and [simple-bar](https://github.com/Jean-Tinland/simple-bar)'s minimal app icons
 
 ## ✨ Features
