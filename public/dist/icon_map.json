@@ -127,12 +127,6 @@
         ]
     },
     {
-        "iconName": ":cockos_reaper:",
-        "appNames": [
-            "Cockos Reaper"
-        ]
-    },
-    {
         "iconName": ":dataspell:",
         "appNames": [
             "DataSpell"
@@ -445,6 +439,12 @@
         "iconName": ":qmk:",
         "appNames": [
             "QMK Toolbox"
+        ]
+    },
+    {
+        "iconName": ":reaper:",
+        "appNames": [
+            "REAPER"
         ]
     },
     {
