@@ -51,6 +51,9 @@ function __icon_map() {
    "Books")
         icon_result=":books:"
         ;;
+   "Brave Browser")
+        icon_result=":brave_browser:"
+        ;;
    "Calculator")
         icon_result=":calculator:"
         ;;
@@ -65,6 +68,9 @@ function __icon_map() {
         ;;
    "Clock")
         icon_result=":clock:"
+        ;;
+   "CotEditor")
+        icon_result=":coteditor:"
         ;;
    "DataSpell")
         icon_result=":dataspell:"
