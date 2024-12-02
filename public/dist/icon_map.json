@@ -97,6 +97,12 @@
         ]
     },
     {
+        "iconName": ":brave_browser:",
+        "appNames": [
+            "Brave Browser"
+        ]
+    },
+    {
         "iconName": ":calculator:",
         "appNames": [
             "Calculator"
@@ -124,6 +130,12 @@
         "iconName": ":clock:",
         "appNames": [
             "Clock"
+        ]
+    },
+    {
+        "iconName": ":coteditor:",
+        "appNames": [
+            "CotEditor"
         ]
     },
     {
