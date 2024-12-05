@@ -2,7 +2,8 @@
     {
         "iconName": ":ableton_live:",
         "appNames": [
-            "Ableton Live"
+            "Ableton Live",
+            "Live"
         ]
     },
     {
@@ -153,7 +154,8 @@
     {
         "iconName": ":devonthink:",
         "appNames": [
-            "DEVONthink"
+            "DEVONthink",
+            "DEVONthink 3"
         ]
     },
     {
@@ -337,6 +339,12 @@
         ]
     },
     {
+        "iconName": ":maps:",
+        "appNames": [
+            "Maps"
+        ]
+    },
+    {
         "iconName": ":messages:",
         "appNames": [
             "Messages"
@@ -391,9 +399,33 @@
         ]
     },
     {
+        "iconName": ":music:",
+        "appNames": [
+            "Music"
+        ]
+    },
+    {
+        "iconName": ":notes:",
+        "appNames": [
+            "Notes"
+        ]
+    },
+    {
         "iconName": ":notion:",
         "appNames": [
             "Notion"
+        ]
+    },
+    {
+        "iconName": ":notion_calendar:",
+        "appNames": [
+            "Notion Calendar"
+        ]
+    },
+    {
+        "iconName": ":numbers:",
+        "appNames": [
+            "Numbers"
         ]
     },
     {
@@ -412,6 +444,18 @@
         "iconName": ":paw:",
         "appNames": [
             "paw"
+        ]
+    },
+    {
+        "iconName": ":photos:",
+        "appNames": [
+            "Photos"
+        ]
+    },
+    {
+        "iconName": ":podcasts:",
+        "appNames": [
+            "Podcasts"
         ]
     },
     {
@@ -520,6 +564,12 @@
         ]
     },
     {
+        "iconName": ":texshop:",
+        "appNames": [
+            "TeXShop"
+        ]
+    },
+    {
         "iconName": ":ticktick:",
         "appNames": [
             "TickTick"
@@ -565,6 +615,12 @@
         "iconName": ":wezterm:",
         "appNames": [
             "WezTerm"
+        ]
+    },
+    {
+        "iconName": ":xquartz:",
+        "appNames": [
+            "XQuartz"
         ]
     },
     {

@@ -3,7 +3,7 @@
 ### START-OF-ICON-MAP
 function __icon_map() {
     case "$1" in
-   "Ableton Live")
+   "Ableton Live" | "Live")
         icon_result=":ableton_live:"
         ;;
    "Activity Monitor")
@@ -78,7 +78,7 @@ function __icon_map() {
    "default")
         icon_result=":default:"
         ;;
-   "DEVONthink")
+   "DEVONthink" | "DEVONthink 3")
         icon_result=":devonthink:"
         ;;
    "Discord")
@@ -171,6 +171,9 @@ function __icon_map() {
    "Mail")
         icon_result=":mail:"
         ;;
+   "Maps")
+        icon_result=":maps:"
+        ;;
    "Messages")
         icon_result=":messages:"
         ;;
@@ -198,8 +201,20 @@ function __icon_map() {
    "Microsoft Word")
         icon_result=":microsoft_word:"
         ;;
+   "Music")
+        icon_result=":music:"
+        ;;
+   "Notes")
+        icon_result=":notes:"
+        ;;
    "Notion")
         icon_result=":notion:"
+        ;;
+   "Notion Calendar")
+        icon_result=":notion_calendar:"
+        ;;
+   "Numbers")
+        icon_result=":numbers:"
         ;;
    "Obsidian")
         icon_result=":obsidian:"
@@ -209,6 +224,12 @@ function __icon_map() {
         ;;
    "paw")
         icon_result=":paw:"
+        ;;
+   "Photos")
+        icon_result=":photos:"
+        ;;
+   "Podcasts")
+        icon_result=":podcasts:"
         ;;
    "Preview")
         icon_result=":preview_2:"
@@ -258,6 +279,9 @@ function __icon_map() {
    "Terminal")
         icon_result=":terminal:"
         ;;
+   "TeXShop")
+        icon_result=":texshop:"
+        ;;
    "TickTick")
         icon_result=":ticktick:"
         ;;
@@ -281,6 +305,9 @@ function __icon_map() {
         ;;
    "WezTerm")
         icon_result=":wezterm:"
+        ;;
+   "XQuartz")
+        icon_result=":xquartz:"
         ;;
    "Zed")
         icon_result=":zed:"
