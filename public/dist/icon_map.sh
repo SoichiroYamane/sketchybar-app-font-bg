@@ -66,11 +66,17 @@ function __icon_map() {
    "Google Chrome")
         icon_result=":chrome:"
         ;;
+   "Claude")
+        icon_result=":claude:"
+        ;;
    "Clock")
         icon_result=":clock:"
         ;;
    "CotEditor")
         icon_result=":coteditor:"
+        ;;
+   "Cursor")
+        icon_result=":cursor:"
         ;;
    "DataSpell")
         icon_result=":dataspell:"
@@ -227,6 +233,9 @@ function __icon_map() {
         ;;
    "Photos")
         icon_result=":photos:"
+        ;;
+   "Pixelmator")
+        icon_result=":pixelmator:"
         ;;
    "Podcasts")
         icon_result=":podcasts:"
