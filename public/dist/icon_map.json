@@ -231,6 +231,12 @@
         ]
     },
     {
+        "iconName": ":ghostty2:",
+        "appNames": [
+            "Ghostty"
+        ]
+    },
+    {
         "iconName": ":github_desktop:",
         "appNames": [
             "GitHub Desktop"
@@ -467,7 +473,8 @@
     {
         "iconName": ":pixelmator:",
         "appNames": [
-            "Pixelmator"
+            "Pixelmator",
+            "Pixelmator Pro"
         ]
     },
     {
@@ -651,6 +658,13 @@
         "iconName": ":zen_browser:",
         "appNames": [
             "Zen Browser"
+        ]
+    },
+    {
+        "iconName": ":zoom:",
+        "appNames": [
+            "zoom",
+            "zoom.us"
         ]
     }
 ]
