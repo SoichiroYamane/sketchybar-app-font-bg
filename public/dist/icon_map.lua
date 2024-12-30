@@ -40,6 +40,7 @@ return {
 	["Finder"] = ":finder_thick:",
 	["Firefox Developer Edition"] = ":firefox:",
 	["Font Book"] = ":font_book:",
+	["Ghostty"] = ":ghostty2:",
 	["GitHub Desktop"] = ":github_desktop:",
 	["Goodnotes"] = ":goodnotes:",
 	["Google Docs"] = ":google_docs:",
@@ -80,6 +81,7 @@ return {
 	["paw"] = ":paw:",
 	["Photos"] = ":photos:",
 	["Pixelmator"] = ":pixelmator:",
+	["Pixelmator Pro"] = ":pixelmator:",
 	["Podcasts"] = ":podcasts:",
 	["Preview"] = ":preview_2:",
 	["PyCharm"] = ":pycharm:",
@@ -118,4 +120,6 @@ return {
 	["XQuartz"] = ":xquartz:",
 	["Zed"] = ":zed:",
 	["Zen Browser"] = ":zen_browser:",
+	["zoom"] = ":zoom:",
+	["zoom.us"] = ":zoom:",
 }

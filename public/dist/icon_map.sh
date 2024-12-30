@@ -117,6 +117,9 @@ function __icon_map() {
    "Font Book")
         icon_result=":font_book:"
         ;;
+   "Ghostty")
+        icon_result=":ghostty2:"
+        ;;
    "GitHub Desktop")
         icon_result=":github_desktop:"
         ;;
@@ -234,7 +237,7 @@ function __icon_map() {
    "Photos")
         icon_result=":photos:"
         ;;
-   "Pixelmator")
+   "Pixelmator" | "Pixelmator Pro")
         icon_result=":pixelmator:"
         ;;
    "Podcasts")
@@ -323,6 +326,9 @@ function __icon_map() {
         ;;
    "Zen Browser")
         icon_result=":zen_browser:"
+        ;;
+   "zoom" | "zoom.us")
+        icon_result=":zoom:"
         ;;
     *)
         icon_result=":default:"
