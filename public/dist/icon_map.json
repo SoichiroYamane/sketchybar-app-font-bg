@@ -37,6 +37,12 @@
         ]
     },
     {
+        "iconName": ":alacritty:",
+        "appNames": [
+            "Alacritty"
+        ]
+    },
+    {
         "iconName": ":amazon_music:",
         "appNames": [
             "Amazon Music"
@@ -420,6 +426,13 @@
         "iconName": ":music:",
         "appNames": [
             "Music"
+        ]
+    },
+    {
+        "iconName": ":neovide:",
+        "appNames": [
+            "Neovide",
+            "Neovim"
         ]
     },
     {

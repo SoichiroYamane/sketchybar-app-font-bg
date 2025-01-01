@@ -21,6 +21,9 @@ function __icon_map() {
    "Affinity Publisher 2")
         icon_result=":affinity_publisher:"
         ;;
+   "Alacritty")
+        icon_result=":alacritty:"
+        ;;
    "Amazon Music")
         icon_result=":amazon_music:"
         ;;
@@ -212,6 +215,9 @@ function __icon_map() {
         ;;
    "Music")
         icon_result=":music:"
+        ;;
+   "Neovide" | "Neovim")
+        icon_result=":neovide:"
         ;;
    "Notes")
         icon_result=":notes:"
