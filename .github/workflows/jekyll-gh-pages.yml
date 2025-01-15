@@ -38,8 +38,8 @@ jobs:
           curl -fsSL https://get.pnpm.io/install.sh | sh -
           export PNPM_HOME="$HOME/.local/share/pnpm"
           export PATH="$PNPM_HOME:$PATH"  # Add pnpm to PATH for immediate use
-          echo "PNPM_HOME=$PNPM_HOME" >> $GITHUB_ENV
-          echo "PATH=$PNPM_HOME:$PATH" >> $GITHUB_ENV
+          echo "PNPM_HOME=$PNPM_HOME" >> "$GITHUB_ENV"
+          echo "PATH=$PNPM_HOME:$PATH" >> "$GITHUB_ENV"
 
       - name: Install dependencies
         run: pnpm install
