@@ -27,7 +27,7 @@
       "height": 1200,
       "normalize": true,
       "preserveAspectRatio": true,
-      "fixedWidth": true
+      "fixedWidth": false
     }
   },
   "dependencies": {
