@@ -1,6 +1,5 @@
 .DS_Store
 *.afdesign~lock~
 node_modules/
-react
-dist
+public/dist
 
