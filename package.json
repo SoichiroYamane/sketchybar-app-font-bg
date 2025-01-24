@@ -24,10 +24,10 @@
     "svgicons2svgfont": {
       "centerhorizontally": true,
       "centervertically": true,
-      "height": 1200,
+      "height": 32,
       "normalize": true,
       "preserveAspectRatio": true,
-      "fixedWidth": false
+      "fixedWidth": true
     }
   },
   "dependencies": {
