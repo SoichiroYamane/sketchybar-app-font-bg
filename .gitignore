@@ -2,3 +2,5 @@
 *.afdesign~lock~
 node_modules/
 react
+dist
+
