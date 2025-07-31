@@ -29,16 +29,23 @@ export function install(replaceInScriptPath, refreshSketchybar = true) {
       scriptContents.slice(endMarkerIndex + endMarker.length);
     fs.writeFileSync(pathToScript, newScriptContents, "utf8");
   } else {
+    const destinationDir = path.join(process.env.HOME, ".config/sketchybar/helpers");
+    const sourceFile = path.join("public", "dist", "icon_map.lua");
+    const destFile = path.join(destinationDir, "icon_map.lua");
 
-    const destinationDir = `${process.env.HOME}/.config/sketchybar/helpers`;
+    try {
+      if (!fs.existsSync(destinationDir)) {
+        fs.mkdirSync(destinationDir, { recursive: true });
+      }
 
-    if (!fs.existsSync(destinationDir)) {
-      fs.mkdirSync(destinationDir, { recursive: true });
+      fs.copyFileSync(sourceFile, destFile);
+      console.log(`Success to copy icon_map.lua to ${destFile}`);
+    } catch (err) {
+      console.error(
+        `Failed to copy icon_map.lua to (${err.code}): ${err.message}`
+      );
     }
-    fs.copyFileSync(
-      "./public/dist/icon_map.lua",
-      path.join(destinationDir, "icon_map.lua")
-    );
+
   }
 
   if (refreshSketchybar) {
