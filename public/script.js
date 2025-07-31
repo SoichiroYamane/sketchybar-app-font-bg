@@ -8,7 +8,7 @@ fetch('./dist/icon_map.json')
 
       const title = document.createElement('span');
       title.classList.add('icon-title');
-      title.textContent = icon.appNames.join(', ');
+      title.textContent = icon.iconName.replace(/^:+|:+$/g, '');
 
       const iconElement = document.createElement('span');
       iconElement.classList.add('icon');
